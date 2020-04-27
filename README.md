@@ -10,4 +10,5 @@ Run the script in the desired folder using:
 python springer.py
 ```
 It'll function exactly as the jupyter notebook.
+
 Your terminal or jupyter notebook cell output will show which book's being downloaded.
